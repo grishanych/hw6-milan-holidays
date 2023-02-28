@@ -182,7 +182,7 @@
 }
 
 .main-content-block-footer-right::after {
-    content: url(/images/arrow.png);
+    content: '\003e' ;
     margin-left: 16px;
     color: #fff;
 }
